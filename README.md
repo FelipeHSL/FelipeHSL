@@ -33,4 +33,4 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 
 ---
 
-![Felipe's GitHub Stats](vercel.app/api?username=FelipeHSL&show_icons=true&theme=radical)
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeHSL&show_icons=true&theme=radical)
