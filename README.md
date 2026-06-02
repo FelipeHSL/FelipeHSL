@@ -1,3 +1,5 @@
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Jr_.NET_Developer-00A98F?style=for-the-badge&logo=linkedin&logoColor=white)
+
 # Hi, I'm Felipe Lima! 👋
 
 ### 👨‍💻 Software Engineer | .NET Backend Developer | Future Gamedev
@@ -48,5 +50,6 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Backend_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
