@@ -29,11 +29,7 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 
 ---
 
-### 📫 How to reach me:
-* **LinkedIn:** https://www.linkedin.com/in/felipe-lima-developer
-* **Email:** felipehenl122@gmail.com
-
----
+### 📊 GitHub Activity
 
 ### 📊 GitHub Activity
 
@@ -51,5 +47,11 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Backend_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+### 📫 How to reach me:
+- **LinkedIn**: [https://www.linkedin.com/in/felipe-lima-developer](https://www.linkedin.com/in/felipe-lima-developer)
+- **Email**: [felipehen1122@gmail.com](mailto:felipehen1122@gmail.com)
 
 
