@@ -31,20 +31,20 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 
 ### 📊 GitHub Activity
 
-![Followers](https://img.shields.io/github/followers/FelipeHSL?style=for-the-badge&logo=github&color=blue)
-![Stars](https://img.shields.io/github/stars/FelipeHSL?style=for-the-badge&logo=github&color=yellow)
-![Repo Count](https://img.shields.io/badge/Repositórios-8-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/FelipeHSL?style=for-the-badge&logo=github&color=blue&cacheSeconds=1)
+![Stars](https://img.shields.io/github/stars/FelipeHSL?style=for-the-badge&logo=github&color=yellow&cacheSeconds=1)
+![Repo Count](https://img.shields.io/badge/Repositórios-8-blue?style=for-the-badge&logo=github&cacheSeconds=1)
 ![Last Commit](https://img.shields.io/github/last-commit/FelipeHSL/FelipeHSL?style=for-the-badge&logo=git&cacheSeconds=1)
 
 ### 💻 Technical Skills
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Backend_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&cacheSeconds=1)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&cacheSeconds=1)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&cacheSeconds=1)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&cacheSeconds=1)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&cacheSeconds=1)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=1)
+![Focus](https://img.shields.io/badge/Focus-Backend_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&cacheSeconds=1)
 
 ---
 
