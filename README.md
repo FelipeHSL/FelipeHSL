@@ -35,14 +35,18 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 
 ## 📊 GitHub & Tech
 
-![Followers](https://img.shields.io/github/followers/FelipeHSL?style=flat-square&logo=github&label=Seguidores)
-![Last Commit](https://img.shields.io/github/last-commit/FelipeHSL/FelipeHSL?style=flat-square&logo=git)
+![Followers](https://img.shields.io/github/followers/FelipeHSL?style=for-the-badge&logo=github&color=blue)
+![Stars](https://img.shields.io/github/stars/FelipeHSL?style=for-the-badge&logo=github&color=yellow)
+![Repo Count](https://img.shields.io/badge/Repositórios-8-blue?style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/FelipeHSL/FelipeHSL?style=for-the-badge&logo=git)
 
 ### 🚀 Technical Skills
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
