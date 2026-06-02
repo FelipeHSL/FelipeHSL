@@ -2,7 +2,7 @@
 
 # Hi, I'm Felipe Lima! 👋
 
-### 👨‍💻 Software Engineer | .NET Backend Developer | Game Dev (Hobby)
+### 👨‍💻 Software Engineer | .NET Backend Developer | GameDev (Hobby)
 
 I am a **Systems Information graduate** currently transitioning into Software Development. My focus is on building robust backend solutions using the **Microsoft Ecosystem (.NET)** while studying **Unity** to fulfill my goal of becoming a Game Developer.
 
