@@ -2,7 +2,7 @@
 
 # Hi, I'm Felipe Lima! 👋
 
-### 👨‍💻 Software Engineer | .NET Backend Developer | Future Gamedev
+### 👨‍💻 Software Engineer | .NET Backend Developer | Game Dev (Hobby)
 
 I am a **Systems Information graduate** currently transitioning into Software Development. My focus is on building robust backend solutions using the **Microsoft Ecosystem (.NET)** while studying **Unity** to fulfill my goal of becoming a Game Developer.
 
@@ -35,14 +35,14 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 
 ---
 
-## 📊 GitHub & Tech
+### 📊 GitHub Activity
 
 ![Followers](https://img.shields.io/github/followers/FelipeHSL?style=for-the-badge&logo=github&color=blue)
 ![Stars](https://img.shields.io/github/stars/FelipeHSL?style=for-the-badge&logo=github&color=yellow)
 ![Repo Count](https://img.shields.io/badge/Repositórios-8-blue?style=for-the-badge&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/FelipeHSL/FelipeHSL?style=for-the-badge&logo=git)
 
-### 🚀 Technical Skills
+### 💻 Technical Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
