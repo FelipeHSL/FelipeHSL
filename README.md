@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Software Engineer | .NET Backend Developer | GameDev (Hobby)
 
-I am a **Systems Information graduate** currently transitioning into Software Development. My focus is on building robust backend solutions using the **Microsoft Ecosystem (.NET)** while studying **Unity** to fulfill my goal of becoming a Game Developer.
+**Systems Information graduate** building backend solutions with .NET (C#, ASP.NET Core, SQL Server). Open to Junior .NET Developer opportunities. Unity enthusiast as a personal hobby.
 
 ---
 
