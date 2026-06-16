@@ -34,7 +34,7 @@ I am currently consolidating my **Backend** foundation to secure my first role i
 ![Followers](https://img.shields.io/github/followers/FelipeHSL?style=for-the-badge&logo=github&color=blue&cacheSeconds=1)
 ![Stars](https://img.shields.io/github/stars/FelipeHSL?style=for-the-badge&logo=github&color=yellow&cacheSeconds=1)
 ![Repo Count](https://img.shields.io/badge/Repositórios-8-orange?style=for-the-badge&logo=github&cacheSeconds=1)
-![Last Commit](https://img.shields.io/github/last-commit/FelipeHSL/FelipeHSL?style=for-the-badge&logo=git&)
+![Last Commit](https://img.shields.io/github/last-commit/FelipeHSL/FelipeHSL?style=for-the-badge&logo=git&cacheSeconds=1)
 
 ### 💻 Technical Skills
 
