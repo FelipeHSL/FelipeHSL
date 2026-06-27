@@ -20,8 +20,7 @@
 ### 🌎 Languages & International Goals
 * **Portuguese:** Native
 * **Japanese:** Intermediate (N4 Level / Aiming for N3) 🇯🇵
-* **English:** Technical/Professional Development 🇨🇦
-
+* **English:** Technical/Professional Development 🇨🇦 🇺🇸
 ---
 
 ### 🎯 Career Path
